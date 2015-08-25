@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e762622-8de1-402c-bc33-c873f5c50ded" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../flaskStarter/flaskr.py" afterPath="$PROJECT_DIR$/../flaskStarter/flaskr.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/thermos.iml" afterPath="$PROJECT_DIR$/.idea/thermos.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../flaskStarter/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../flaskStarter/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thermos.iws" />
     <ignored path=".idea/workspace.xml" />
